@@ -1,6 +1,6 @@
 # Blog on National Parks of Canada
 
-A blog website on top 10 National Parks of Canada using HTML, CSS, and Bootstrap. 
+A fully responsive blog website on top 10 National Parks of Canada using HTML, CSS, and Bootstrap. 
 
 ## Sample Web View
 <img src="UI/1.PNG">
